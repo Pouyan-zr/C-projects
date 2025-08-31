@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1752426507 source:c:\users\asus\desktop\c++\project1\main.cpp
+	<iostream>
+	<conio.h>
+	<cmath>
+
